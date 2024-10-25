@@ -1,4 +1,3 @@
-console.log("I am in the register.js file")
 
 const form = document.getElementById('registerForm');
 
